@@ -266,6 +266,6 @@ Done tasks are marked by a `x ` in begining of the line and can optionally be mo
   Examples: @home @work
 
 #### What is a project (+)?
-  With projects you can group tasks by a specific project. You may use it to tag your todos with recognizable meta information. Context is part of todo.txt format, add `+` in front of a word to create one.  
+  With projects you can group tasks by a specific project. You may use it to tag your todos with recognizable meta information. Project is part of todo.txt format, add `+` in front of a word to create one.  
   Examples: +video +download +holidayPlanning
 
